@@ -1,0 +1,46 @@
+{
+    "name": "Arturo Soria",
+    "backImage": "/my-app/src/assets/img/background2.png",
+    "image": "/my-app/src/assets/img/profile-photo.jpg",
+    "position": "informatico en el CONICET Argentina",
+    "company": {
+        "name": "Populorum Progressio",
+        "img": "/my-app/src/assets/img/populorum.jpg",
+        "url": "#"
+    },
+    "school":{
+        "name":"Populorum Progressio",
+        "img":"/my-app/src/assets/img/populorum.jpg",
+        "url":"#"
+    },
+    "ubication": "Jujuy (Argentina)",
+    "about": "informatico, periodista, cronista de radio",
+    "experiencie":[{
+        "position": "backed developer",
+        "company": "pixar",
+        "img":"/my-app/src/assets/img/nodejs.jpg",
+        "mode": "jornada parcial",
+        "start": "march 2020",
+        "end": "actualidad",
+        "timelapsed": "2 años y 6 meses"
+    }],
+    "education": [{
+        "school": "populorum progressio",
+        "title": "tecnico en comunicacion social",
+        "img":"/my-app/src/assets/img/populorum.jpg",
+        "carrer": "humanidades y sociales",
+        "score": 0,
+        "start": "2013",
+        "end": "2015"
+    },
+
+{
+    "school": "comercial 7",
+    "title": "perito mercantil",
+    "img":"/my-app/src/assets/img/comercial-7.jpg",
+    "carrer": "ciencias economicas",
+    "score": 82,
+    "start": "2008",
+    "end": "2012"
+}]
+}
