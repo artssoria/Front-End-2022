@@ -9,7 +9,8 @@ import { AboutComponent } from './componentes/about/about.component';
 import { ExperienceComponent } from './componentes/experience/experience.component';
 import { HardSoftComponent } from './componentes/hard-soft/hard-soft.component';
 import { ProjectsComponent } from './componentes/projects/projects.component';
-import{HttpClientModule} from '@angular/common/http'
+import{HttpClientModule} from '@angular/common/http';
+import { FooterComponent } from './componentes/footer/footer.component'
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import{HttpClientModule} from '@angular/common/http'
     ExperienceComponent,
     HardSoftComponent,
     ProjectsComponent,
+    FooterComponent,
     
   ],
   imports: [
